@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm E. Surya Prakash</h1>
-<h3 align="center">💻 Java and Full-Stack Developer | 🌱 Lifelong Learner | 🏀 Basketball Enthusiast</h3>
+<h3 align="center">💻 Java and Python Full-Stack Developer | 🌱 Lifelong Learner | 🏀 Basketball Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/ESuryaprakash/ESuryaprakash/blob/main/assets/coding.gif" alt="Coding animation" width="350"/>
